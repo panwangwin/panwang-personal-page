@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wang Pan
+title: Wang (David) Pan
 
 # Is this the primary user of the site?
 superuser: true

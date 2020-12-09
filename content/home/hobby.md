@@ -24,7 +24,7 @@ subtitle = ""
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "Starter"
+  description = ""
   
 
 # Uncomment to use emoji icons.
