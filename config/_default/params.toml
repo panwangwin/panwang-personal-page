@@ -96,7 +96,7 @@ address = {street = "Lishui Road", city = "Shenzhen", region = "Guangdong", post
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "22.592738878895418", longitude = "113.96811416461136"}
+# coordinates = {latitude = "22.592738878895418", longitude = "113.96811416461136"}
 
 # Directions for visitors to locate you.
 directions = ""
